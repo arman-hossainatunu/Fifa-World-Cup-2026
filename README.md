@@ -2,7 +2,7 @@
 
 Welcome to the **FIFA World Cup 2026** fan page – your ultimate destination to stay updated on matches, teams, and the biggest football event of the year!
 
-![Screenshot](./screencapture-127-0-0-1-5500-index-html-2025-07-22-21_33_41.png)
+![Live Link](https://arman-hossainatunu.github.io/Fifa-World-Cup-2026/)
 
 ## 🚀 Features
 
